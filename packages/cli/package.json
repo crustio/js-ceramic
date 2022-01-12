@@ -65,7 +65,7 @@
     "safe-did-resolver": "^0.0.5",
     "stream-to-array": "^2.3.0",
     "typedjson": "^1.7.0",
-    "uint8arrays": "^2.0.5"
+    "uint8arrays": "^3.0.0"
   },
   "devDependencies": {
     "@ceramicnetwork/stream-tile-handler": "^1.5.12-rc.0",

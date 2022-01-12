@@ -29,7 +29,7 @@
     "@ceramicnetwork/streamid": "^1.3.10-rc.0",
     "@stablelib/random": "^1.0.0",
     "fast-json-patch": "^2.2.1",
-    "uint8arrays": "^2.0.5"
+    "uint8arrays": "^3.0.0"
   },
   "devDependencies": {
     "@types/node": "^13.13.15"

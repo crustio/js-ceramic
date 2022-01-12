@@ -55,7 +55,7 @@
     "multihashes": "^4.0.2",
     "p-queue": "^6.6.1",
     "rxjs": "^7.0.0",
-    "uint8arrays": "^2.0.5"
+    "uint8arrays": "^3.0.0"
   },
   "devDependencies": {
     "@ceramicnetwork/3id-did-resolver": "^1.4.17-rc.0",
